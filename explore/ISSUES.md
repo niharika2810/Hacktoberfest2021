@@ -55,3 +55,6 @@
 | 53. | [Heel2Toe](https://github.com/saloni-15/Heel2Toe)| [Improve Footer Section](https://github.com/saloni-15/Heel2Toe/issues/1) | `HTML` `CSS` `JS` |
 | 54. | [strongbox](https://github.com/strongbox/strongbox)| [Improve Footer Section](https://github.com/strongbox/strongbox/issues/1730) | `Java` `Documentation`|
 | 55. | [Instagram Clone](https://github.com/cankush625/Instagram_Clone)| [Make camera button working](https://github.com/cankush625/Instagram_Clone/issues/8) | `Flutter` `Dart`|
+| 56. | [Android Development Best Practices](https://github.com/niharika2810/android-development-best-practices)| [Add more best practices from your learnings](https://github.com/niharika2810/android-development-best-practices/issues/5) | `Android` |
+| 57. | [Android Interview Questions](https://github.com/niharika2810/android-interview-questions)| [Add the interview questions you encountered](https://github.com/niharika2810/android-interview-questions/issues/4) | `Android` |
+| 58. | [MovieTray](https://github.com/niharika2810/MovieTray)| [Try to find issues with the app and propose a solution.](https://github.com/niharika2810/MovieTray/issues/2) | `Kotlin` |
